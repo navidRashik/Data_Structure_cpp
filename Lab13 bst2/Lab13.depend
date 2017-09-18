@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1429644952 source:f:\all lab code\lab13 bst2\bst.cpp
+	"bst.h"
+	<iostream>
+
+1427874376 f:\all lab code\lab13 bst2\bst.h
+	<iostream>
+	"bst.cpp"
+
+1429644952 f:\all lab code\lab13 bst2\bst.cpp
+	"bst.h"
+	<iostream>
+
+1428072366 source:f:\all lab code\lab13 bst2\main.cpp
+	<iostream>
+	"bst.h"
+
+1428072366 source:c:\users\navid\desktop\all lab code\lab13 bst2\main.cpp
+	<iostream>
+	"bst.h"
+
+1427874376 c:\users\navid\desktop\all lab code\lab13 bst2\bst.h
+	<iostream>
+	"bst.cpp"
+
+1429644952 c:\users\navid\desktop\all lab code\lab13 bst2\bst.cpp
+	"bst.h"
+	<iostream>
+
+1429644952 source:c:\users\navid\desktop\all lab code\lab13 bst2\bst.cpp
+	"bst.h"
+	<iostream>
+

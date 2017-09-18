@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1427701087 source:c:\users\administrator\desktop\akib\lab12\bst.cpp
+	"BST.h"
+	<iostream>
+
+1427700239 c:\users\administrator\desktop\akib\lab12\bst.h
+	<iostream>
+	"BST.cpp"
+
+1427701087 c:\users\administrator\desktop\akib\lab12\bst.cpp
+	"BST.h"
+	<iostream>
+
+1427700700 source:c:\users\administrator\desktop\akib\lab12\main.cpp
+	<iostream>
+	"BST.h"
+
+1427701402 source:e:\programming\cpp\cse225\lab works\lab12\main.cpp
+	<iostream>
+	"BST.h"
+
+1427701188 e:\programming\cpp\cse225\lab works\lab12\bst.h
+	<iostream>
+	"BST.cpp"
+
+1427701378 e:\programming\cpp\cse225\lab works\lab12\bst.cpp
+	"BST.h"
+	<iostream>
+
+1429637032 source:f:\all lab code\lab12 bst1\bst.cpp
+	"BST.h"
+	<iostream>
+
+1427701188 f:\all lab code\lab12 bst1\bst.h
+	<iostream>
+	"BST.cpp"
+
+1429637032 f:\all lab code\lab12 bst1\bst.cpp
+	"BST.h"
+	<iostream>
+
+1427701402 source:f:\all lab code\lab12 bst1\main.cpp
+	<iostream>
+	"BST.h"
+

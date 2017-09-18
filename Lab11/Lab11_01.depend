@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1427268807 source:c:\users\administrator\desktop\akib\lab11_01\main.cpp
+	<iostream>
+	"SortedType.h"
+
+1427268540 c:\users\administrator\desktop\akib\lab11_01\sortedtype.h
+	<iostream>
+	"SortedType.cpp"
+
+1427268954 c:\users\administrator\desktop\akib\lab11_01\sortedtype.cpp
+	"SortedType.h"
+
+1427268630 source:c:\users\administrator\desktop\akib\lab11_01\sortedtype.cpp
+	"SortedType.h"
+

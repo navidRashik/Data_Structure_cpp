@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1426613708 source:c:\users\navid\documents\exer\queuetype( array lab7)\queue.cpp
+	"Queue.h"
+	<iostream>
+
+1426613038 c:\users\navid\documents\exer\queuetype( array lab7)\queue.h
+	"Queue.cpp"
+
+1426615401 c:\users\navid\documents\exer\queuetype( array lab7)\queue.cpp
+	"Queue.h"
+	<iostream>
+
+1426615371 source:c:\users\navid\documents\exer\queuetype( array lab7)\main.cpp
+	<iostream>
+	"Queue.h"
+

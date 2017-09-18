@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1423853162 source:f:\c++ mle\lab\lab2\trinagle\main.cpp
+	<iostream>
+	"Triangle.h"
+
+1423853608 f:\c++ mle\lab\lab2\trinagle\triangle.h
+
+1425414294 source:h:\edu\c++ mle\lab\lab2\trinagle\triangle.cpp
+	"Triangle.h"
+	"math.h"
+	<iostream>
+
+1425411671 h:\edu\c++ mle\lab\lab2\trinagle\triangle.h
+	"Triangle.cpp"
+
+1425414629 h:\edu\c++ mle\lab\lab2\trinagle\triangle.cpp
+	"Triangle.h"
+	"math.h"
+	<iostream>
+
+1425413536 source:h:\edu\c++ mle\lab\lab2\trinagle\main.cpp
+	<iostream>
+	"Triangle.h"
+

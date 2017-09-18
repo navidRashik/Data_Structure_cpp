@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1426590888 source:c:\users\navid\documents\exer\unsortedtype linked(lab4)\main.cpp
+	"UnsortedType.h"
+	<iostream>
+
+1425442276 source:c:\users\navid\documents\exer\unsortedtype linked(lab4)\itemtype.cpp
+	"ItemType.h"
+
+1425442260 c:\users\navid\documents\exer\unsortedtype linked(lab4)\itemtype.h
+	<iostream>
+
+1426590815 source:c:\users\navid\documents\exer\unsortedtype linked(lab4)\unsortedtype.cpp
+	"UnsortedType.h"
+
+1426585988 c:\users\navid\documents\exer\unsortedtype linked(lab4)\unsortedtype.h
+	<new>
+	<iostream>
+	"UnsortedType.cpp"
+
+1426590815 c:\users\navid\documents\exer\unsortedtype linked(lab4)\unsortedtype.cpp
+	"UnsortedType.h"
+

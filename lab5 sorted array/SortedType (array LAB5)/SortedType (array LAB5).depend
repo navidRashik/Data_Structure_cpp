@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1425442276 source:c:\users\navid\documents\exer\sortedtype (array lab5)\itemtype.cpp
+	"ItemType.h"
+
+1425442260 c:\users\navid\documents\exer\sortedtype (array lab5)\itemtype.h
+	<iostream>
+
+1385316878 source:c:\users\navid\documents\exer\sortedtype (array lab5)\main.cpp
+	<iostream>
+
+1426593104 source:c:\users\navid\documents\exer\sortedtype (array lab5)\sortedtype.cpp
+	"SortedType.h"
+
+1426593226 c:\users\navid\documents\exer\sortedtype (array lab5)\sortedtype.h
+	<iostream>
+	"SortedType.cpp"
+
+1426593104 c:\users\navid\documents\exer\sortedtype (array lab5)\sortedtype.cpp
+	"SortedType.h"
+

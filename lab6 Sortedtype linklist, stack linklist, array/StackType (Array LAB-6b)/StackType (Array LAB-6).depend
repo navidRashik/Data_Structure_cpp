@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1426606522 source:c:\users\navid\documents\exer\stacktype (array lab-6)\main.cpp
+	<iostream>
+	"StackType.h"
+
+1426606720 c:\users\navid\documents\exer\stacktype (array lab-6)\stacktype.h
+	"StackType.cpp"
+
+1426606844 c:\users\navid\documents\exer\stacktype (array lab-6)\stacktype.cpp
+	"StackType.h"
+	<iostream>
+
+1426606844 source:c:\users\navid\documents\exer\stacktype (array lab-6)\stacktype.cpp
+	"StackType.h"
+	<iostream>
+
+1426606993 source:h:\edu\c++ mle\lab\lab6\stacktype (array lab-6)\main.cpp
+	<iostream>
+	"StackType.h"
+
+1426606720 h:\edu\c++ mle\lab\lab6\stacktype (array lab-6)\stacktype.h
+	"StackType.cpp"
+
+1426606844 h:\edu\c++ mle\lab\lab6\stacktype (array lab-6)\stacktype.cpp
+	"StackType.h"
+	<iostream>
+

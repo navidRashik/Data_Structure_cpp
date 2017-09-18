@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1423863693 source:c:\users\administrator\desktop\lab03\problem 01\main.cpp
+	<iostream>
+	"ItemType.h"
+	"UnsortedType.h"
+
+1423859233 c:\users\administrator\desktop\lab03\problem 01\itemtype.h
+	<stdio.h>
+	<iostream>
+	"ItemType.cpp"
+
+1423858566 c:\users\administrator\desktop\lab03\problem 01\itemtype.cpp
+	"ItemType.h"
+
+1423861377 c:\users\administrator\desktop\lab03\problem 01\unsortedtype.h
+	"ItemType.h"
+	"UnsortedType.cpp"
+
+1423863533 c:\users\administrator\desktop\lab03\problem 01\unsortedtype.cpp
+	"UnsortedType.h"
+
+1423865006 source:e:\programming\cpp\cse225\lab works\lab03\problem 01\main.cpp
+	<iostream>
+	"ItemType.h"
+	"UnsortedType.h"
+
+1423859234 e:\programming\cpp\cse225\lab works\lab03\problem 01\itemtype.h
+	<stdio.h>
+	<iostream>
+	"ItemType.cpp"
+
+1423858568 e:\programming\cpp\cse225\lab works\lab03\problem 01\itemtype.cpp
+	"ItemType.h"
+
+1423861378 e:\programming\cpp\cse225\lab works\lab03\problem 01\unsortedtype.h
+	"ItemType.h"
+	"UnsortedType.cpp"
+
+1423863534 e:\programming\cpp\cse225\lab works\lab03\problem 01\unsortedtype.cpp
+	"UnsortedType.h"
+
+1426621352 source:c:\users\navid\desktop\problem 01\main.cpp
+	<iostream>
+	"ItemType.h"
+	"UnsortedType.h"
+
+1423859234 c:\users\navid\desktop\problem 01\itemtype.h
+	<stdio.h>
+	<iostream>
+	"ItemType.cpp"
+
+1423858568 c:\users\navid\desktop\problem 01\itemtype.cpp
+	"ItemType.h"
+
+1423861378 c:\users\navid\desktop\problem 01\unsortedtype.h
+	"ItemType.h"
+	"UnsortedType.cpp"
+
+1423863534 c:\users\navid\desktop\problem 01\unsortedtype.cpp
+	"UnsortedType.h"
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1426656087 source:c:\users\navid\documents\exer\lab6a\main.cpp
+	<iostream>
+	"SortedType.h"
+
+1426655830 source:c:\users\navid\documents\exer\lab6a\sortedtype.cpp
+	"SortedType.h"
+
+1426656151 c:\users\navid\documents\exer\lab6a\sortedtype.h
+	<iostream>
+	"SortedType.cpp"
+
+1426655830 c:\users\navid\documents\exer\lab6a\sortedtype.cpp
+	"SortedType.h"
+

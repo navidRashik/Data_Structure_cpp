@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1425442276 source:c:\users\navid\documents\exer\itemtype\itemtype.cpp
+	"ItemType.h"
+
+1425442260 c:\users\navid\documents\exer\itemtype\itemtype.h
+	<iostream>
+
+1425444995 source:c:\users\navid\documents\exer\itemtype\main.cpp
+	<iostream>
+	"ItemType.h"
+
+1425442276 source:h:\edu\c++ mle\lab\lab3\itemtype\itemtype.cpp
+	"ItemType.h"
+
+1425442260 h:\edu\c++ mle\lab\lab3\itemtype\itemtype.h
+	<iostream>
+
+1425444995 source:h:\edu\c++ mle\lab\lab3\itemtype\main.cpp
+	<iostream>
+	"ItemType.h"
+

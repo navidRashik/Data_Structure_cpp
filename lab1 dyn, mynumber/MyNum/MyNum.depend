@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1422987165 source:f:\c++ mle\lab\lab1\mynum\main.cpp
+	<iostream>
+	"MyNum.h"
+
+1423045220 f:\c++ mle\lab\lab1\mynum\mynum.h
+

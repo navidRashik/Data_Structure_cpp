@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1429995157 source:h:\edu\project\code\huffman final\huffman\huffman.cpp
+	"huffman.h"
+
+1429995192 h:\edu\project\code\huffman final\huffman\huffman.h
+	<iostream>
+	<vector>
+	<string>
+
+1429995157 source:h:\edu\project\code\huffman final\huffman\main.cpp
+	"huffman.h"
+
+1430377468 source:c:\users\navid\desktop\huffman\huffman.cpp
+	"huffman.h"
+
+1430370088 c:\users\navid\desktop\huffman\huffman.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<stdio.h>
+	<string>
+	<sstream>
+	<math.h>
+
+1430374691 source:c:\users\navid\desktop\huffman\main.cpp
+	"huffman.h"
+
+1430378744 source:c:\users\navid\mega\education\nsu\c++ mle\project\code\huffman\huffman.cpp
+	"huffman.h"
+
+1430370088 c:\users\navid\mega\education\nsu\c++ mle\project\code\huffman\huffman.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<stdio.h>
+	<string>
+	<sstream>
+	<math.h>
+
+1430374691 source:c:\users\navid\mega\education\nsu\c++ mle\project\code\huffman\main.cpp
+	"huffman.h"
+

@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1422018398 source:c:\users\navid\documents\exer\priority queue heap\heap.cpp
+	"heap.h"
+	<algorithm>
+
+1422018404 c:\users\navid\documents\exer\priority queue heap\heap.h
+	"heap.cpp"
+
+1422018398 c:\users\navid\documents\exer\priority queue heap\heap.cpp
+	"heap.h"
+	<algorithm>
+
+1422018412 source:c:\users\navid\documents\exer\priority queue heap\main.cpp
+	<iostream>
+	"priorityQueue.h"
+
+1422018430 c:\users\navid\documents\exer\priority queue heap\priorityqueue.h
+	"heap.h"
+	"priorityQueue.cpp"
+
+1422018418 c:\users\navid\documents\exer\priority queue heap\priorityqueue.cpp
+	"priorityQueue.h"
+
+1422018418 source:c:\users\navid\documents\exer\priority queue heap\priorityqueue.cpp
+	"priorityQueue.h"
+
+1422018398 source:f:\all lab code\priority queue heap\heap.cpp
+	"heap.h"
+	<algorithm>
+
+1422018404 f:\all lab code\priority queue heap\heap.h
+	"heap.cpp"
+
+1422018398 f:\all lab code\priority queue heap\heap.cpp
+	"heap.h"
+	<algorithm>
+
+1422018412 source:f:\all lab code\priority queue heap\main.cpp
+	<iostream>
+	"priorityQueue.h"
+
+1422018430 f:\all lab code\priority queue heap\priorityqueue.h
+	"heap.h"
+	"priorityQueue.cpp"
+
+1422018418 f:\all lab code\priority queue heap\priorityqueue.cpp
+	"priorityQueue.h"
+
+1422018418 source:f:\all lab code\priority queue heap\priorityqueue.cpp
+	"priorityQueue.h"
+
+1430076802 source:c:\users\navid\desktop\all lab code\priority queue heap\heap.cpp
+	"heap.h"
+	<algorithm>
+
+1422018404 c:\users\navid\desktop\all lab code\priority queue heap\heap.h
+	"heap.cpp"
+
+1430077733 c:\users\navid\desktop\all lab code\priority queue heap\heap.cpp
+	"heap.h"
+	<algorithm>
+
+1422018418 source:c:\users\navid\desktop\all lab code\priority queue heap\priorityqueue.cpp
+	"priorityQueue.h"
+
+1422018430 c:\users\navid\desktop\all lab code\priority queue heap\priorityqueue.h
+	"heap.h"
+	"priorityQueue.cpp"
+
+1422018418 c:\users\navid\desktop\all lab code\priority queue heap\priorityqueue.cpp
+	"priorityQueue.h"
+
+1430068631 source:c:\users\navid\desktop\all lab code\priority queue heap\main.cpp
+	<iostream>
+	"priorityQueue.h"
+

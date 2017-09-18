@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1429084147 source:c:\users\administrator\desktop\akib\lab17\graphtype.cpp
+	<stack>
+	<queue>
+	"GraphType.h"
+
+1429083820 c:\users\administrator\desktop\akib\lab17\graphtype.h
+	<stack>
+	<queue>
+	<iostream>
+	"GraphType.cpp"
+
+1429084147 c:\users\administrator\desktop\akib\lab17\graphtype.cpp
+	<stack>
+	<queue>
+	"GraphType.h"
+
+1429084068 source:c:\users\administrator\desktop\akib\lab17\main.cpp
+	<iostream>
+	"GraphType.h"
+
+1430116459 source:c:\users\navid\desktop\all lab code\lab17 bfs dfs\main.cpp
+	<iostream>
+	"GraphType.h"
+
+1429083822 c:\users\navid\desktop\all lab code\lab17 bfs dfs\graphtype.h
+	<stack>
+	<queue>
+	<iostream>
+	"GraphType.cpp"
+
+1430117145 c:\users\navid\desktop\all lab code\lab17 bfs dfs\graphtype.cpp
+	<stack>
+	<queue>
+	"GraphType.h"
+
+1430117145 source:c:\users\navid\desktop\all lab code\lab17 bfs dfs\graphtype.cpp
+	<stack>
+	<queue>
+	"GraphType.h"
+

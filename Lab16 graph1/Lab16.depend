@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1428911400 source:c:\users\administrator\desktop\akib\lab16\graphtype.cpp
+	"GraphType.h"
+
+1428911080 c:\users\administrator\desktop\akib\lab16\graphtype.h
+	<queue>
+	<iostream>
+	"GraphType.cpp"
+
+1428911400 c:\users\administrator\desktop\akib\lab16\graphtype.cpp
+	"GraphType.h"
+
+1428911424 source:c:\users\administrator\desktop\akib\lab16\main.cpp
+	<iostream>
+	"GraphType.h"
+
+1428911402 source:f:\all lab code\lab16 graph1\graphtype.cpp
+	"GraphType.h"
+
+1428911082 f:\all lab code\lab16 graph1\graphtype.h
+	<queue>
+	<iostream>
+	"GraphType.cpp"
+
+1428911402 f:\all lab code\lab16 graph1\graphtype.cpp
+	"GraphType.h"
+
+1428911594 source:f:\all lab code\lab16 graph1\main.cpp
+	<iostream>
+	"GraphType.h"
+
+1428911594 source:f:\lab16 graph1\main.cpp
+	<iostream>
+	"GraphType.h"
+
+1428911082 f:\lab16 graph1\graphtype.h
+	<queue>
+	<iostream>
+	"GraphType.cpp"
+
+1428911402 f:\lab16 graph1\graphtype.cpp
+	"GraphType.h"
+
+1430082351 source:c:\users\navid\desktop\all lab code\lab16 graph1\main.cpp
+	<iostream>
+	"GraphType.h"
+
+1428911082 c:\users\navid\desktop\all lab code\lab16 graph1\graphtype.h
+	<queue>
+	<iostream>
+	"GraphType.cpp"
+
+1430083206 c:\users\navid\desktop\all lab code\lab16 graph1\graphtype.cpp
+	"GraphType.h"
+
+1430082440 source:c:\users\navid\desktop\all lab code\lab16 graph1\graphtype.cpp
+	"GraphType.h"
+
